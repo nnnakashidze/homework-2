@@ -1,0 +1,25 @@
+.mtavari {
+  font-size: 32px;
+  text-align: center;
+  font-weight: bold;
+  font-style: inherit;
+}
+.about me container {
+  font-size: 16px;
+  font-weight: bold;
+  font-style: inherit;
+}
+.firstclass {
+  font-size: 16px;
+  font-weight: bold;
+  font-style: inherit;
+}
+.aboutme {
+  background-color: aqua;
+}
+.secondclass {
+  background-color: yellow;
+}
+.imagecontainer {
+  text-align: center;
+}
